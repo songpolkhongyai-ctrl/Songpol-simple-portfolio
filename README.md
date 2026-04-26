@@ -14,7 +14,7 @@ This repository hosts a simple, dark-themed portfolio website for Songpol, a Dat
 
 -   `index.html`: The main landing page, integrating the Hero, Projects, and Contact sections.
 -   `projects/`: Contains individual HTML files for detailed case studies of each project (e.g., `project1.html`).
--   `assets/`:
+-   `docs/`:
     -   `css/Style.css`: Stylesheets for the dark theme and typography.
     -   `js/theme.js`: (Placeholder for) JavaScript for interactive elements and data fetching.
     -   `images/`: (Planned for) Project screenshots and a profile photo.
@@ -38,7 +38,7 @@ This project is intended to be deployed via GitHub Pages.
 1.  Push your local changes to the `master` branch of your GitHub repository.
 2.  Go to your repository settings on GitHub.
 3.  Navigate to the "Pages" section.
-4.  Select the `master` branch as your GitHub Pages source and choose the `/ (root)` folder.
+4.  Select the `master` branch as your GitHub Pages source and choose the `/docs` folder.
 5.  Save your changes. Your site should be live at `https://your-github-username.github.io/your-repository-name/`.
 
 ## Contact
